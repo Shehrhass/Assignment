@@ -1,4 +1,5 @@
 # Project: Look at an Airbnb data from (https://osf.io/qyca8/files/z7vy6)
+The compressed Airbnb database has been split into 2 files due to size limitation in Github upload.
 
 /////////// PYTHON
 #The project aims to look at daily price of a specific property_type (apartments), and to check the distribution of this variable against number of reviews.
